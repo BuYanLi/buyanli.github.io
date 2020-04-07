@@ -1,0 +1,8 @@
+title: 伍炎雄
+description: 不炎 __ 错的不是我 , 错的 . 是这个世界
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
